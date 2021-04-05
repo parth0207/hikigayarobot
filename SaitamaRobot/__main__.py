@@ -204,18 +204,18 @@ def start(update: Update, context: CallbackContext):
                                 context.bot.username)),
                          InlineKeyboardButton(
                              text=" 🔔 support ",
-                             url="https://t.me/hikigayasupport")
+                             url="https://t.me/haruhiisupport")
                      ],
                      [
                         InlineKeyboardButton(
                             text=" ✨ Help ",
-                            url="https://t.me/hikigaya_robot?start=help"),
+                            url="https://t.me/Haruhii_bot?start=help"),
                          
                      ],
                      [
                         InlineKeyboardButton(
                              text=" ❤️ Source Code ",
-                             url="https://github.com/Nksama/hikigayarobot")
+                             url="Secret ಡ ͜ ʖ ಡ")
                     
                     ]]))
     else:
