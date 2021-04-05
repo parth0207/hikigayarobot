@@ -60,7 +60,7 @@ You can find my list of available commands with /help.
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm HIKIGAYA & I help admins to manage their groups! Have a look at the following for an idea of some of \
+I'm Haruhi & I help admins to manage their groups! Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
@@ -78,12 +78,10 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/ab20e874217adfabe42df.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/29e99e9220908eccf0970.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Senku is hosted on one of Heroku's Servers and doesn't require any donations as of now but \
-You can donate to the original writer of the Base code, Paul
-There are two ways of supporting him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+We Don't Have Donation Link As For Now, We Will Update As Soon As We Have One."""
 
 IMPORTED = {}
 MIGRATEABLE = []
