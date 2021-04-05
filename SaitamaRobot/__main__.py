@@ -215,7 +215,7 @@ def start(update: Update, context: CallbackContext):
                      [
                         InlineKeyboardButton(
                              text=" ❤️ Source Code ",
-                             url="Secret ಡ ͜ ʖ ಡ")
+                             url="https://t.me/haruhiisupport")
                     
                     ]]))
     else:
